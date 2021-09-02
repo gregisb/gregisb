@@ -2,7 +2,7 @@
 
 
 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
 Desenvolvedor React | Node | JavaScript
 
 
@@ -17,6 +17,9 @@ Desenvolvedor React | Node | JavaScript
   
   <a href="https://www.linkedin.com/in/guilherme-regis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    <a href = "mailto:guilhermeb.regis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+   
+   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
   
 
