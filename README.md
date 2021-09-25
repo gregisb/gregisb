@@ -22,7 +22,7 @@ Front-end developer. React | JavaScript | CSS | HTML
    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
    
    
-- 🔭 I’m currently working on <a href="https://github.com/gregisb/Discogs-to-Spotify">Discogs to Spotify</a> project.
+- 🔭 I’m currently working on <a href="https://github.com/gregisb/Discogs-to-Spotify" target='_blank'>Discogs to Spotify</a> project.
 
   
 
