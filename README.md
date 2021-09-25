@@ -1,9 +1,9 @@
-## Guilherme Regis
+### Guilherme Regis
 
 
 
 
-Desenvolvedor React | Node | JavaScript
+Front-end developer. React | JavaScript | CSS | HTML
 
 
 
@@ -20,6 +20,9 @@ Desenvolvedor React | Node | JavaScript
   
    
    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+   
+   
+- 🔭 I’m currently working on <a href="https://github.com/gregisb/Discogs-to-Spotify">Discogs to Spotify</a> project.
 
   
 
@@ -28,8 +31,7 @@ Desenvolvedor React | Node | JavaScript
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
