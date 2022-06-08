@@ -4,6 +4,9 @@
 
 
 Front-end developer. React | JavaScript | CSS | HTML
+In this page you'll find some of the stuff I've been working on. You can contact me with my email guilhermeb.regis@gmail.com
+
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://manjaro.org/)
 
 
 
@@ -19,7 +22,7 @@ Front-end developer. React | JavaScript | CSS | HTML
    <a href = "mailto:guilhermeb.regis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
    
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://manjaro.org/)
+
 
    
    
