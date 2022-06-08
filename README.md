@@ -7,7 +7,6 @@ Front-end developer. React | JavaScript | CSS | HTML
 
 
 
-
  <div>
   <a href="https://github.com/gregisb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gregisb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,7 +19,8 @@ Front-end developer. React | JavaScript | CSS | HTML
    <a href = "mailto:guilhermeb.regis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
    
-   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://manjaro.org/)
+
    
    
 - 🔭 I’m currently working on <a href="https://github.com/gregisb/Discogs-to-Spotify" target='_blank'>Discogs to Spotify</a> project.
