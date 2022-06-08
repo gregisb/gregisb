@@ -6,7 +6,7 @@
 Front-end developer. React | JavaScript | CSS | HTML <br />
 In this page you'll find some of the stuff I've been working on. You can contact me with my email guilhermeb.regis@gmail.com
 
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://manjaro.org/)
+[![Linux](https://svgshare.com/i/Zhy.svg)](#)
 
 
 
