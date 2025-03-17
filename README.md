@@ -3,7 +3,7 @@
 
 
 
-Front-end developer. React | TypeScript | CSS | HTML <br />
+Full stack developer. React | TypeScript | Node | Go | | PostgreSQL | CSS | HTML and more <br />
 In this page you'll find some of the stuff I've been working on. You can contact me with my email guilhermeb.regis@gmail.com
 
 [![Linux](https://svgshare.com/i/Zhy.svg)](#)
